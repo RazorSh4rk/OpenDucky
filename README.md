@@ -3,7 +3,7 @@
 Script language and IDE for an open source Rubber Ducky
 
 ### Arduino compatible
-Compatible with attiny chip board like the Digispark, porting to Arduino boards is TODO
+Compatible with any attiny chip board like the Digispark, porting to Arduino boards is TODO
 
 ### Easy
 There are only 6 commands
